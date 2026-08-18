@@ -34,6 +34,10 @@ I build reliable data systems that turn messy operational information into usefu
 
 ## Selected work
 
+### [NYC TLC multi-source pipeline](https://github.com/alozur/nyc-tlc-multi-source-pipeline)
+
+An educational dbt and DuckDB pipeline that normalizes heterogeneous NYC TLC trip data with validation and descriptive statistical analysis.
+
 ### [Airflow video automation](https://github.com/alozur/airflow-dags)
 
 Production-style orchestration for video workflows, including Docker, PostgreSQL integration, automated processing, testing, and AI-assisted enrichment.
