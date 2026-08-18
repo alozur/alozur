@@ -35,10 +35,6 @@ Production-style orchestration for video workflows, including Docker, PostgreSQL
 
 Hands-on work with dimensional modeling, cumulative tables, and Slowly Changing Dimensions in PostgreSQL.
 
-### [Bank analysis pipeline](https://github.com/alozur/bank-analysis-airflow)
-
-Airflow-based ETL for normalizing structured financial exports, loading PostgreSQL, and detecting recurring-payment patterns.
-
 > More personal product case studies are being prepared from private projects with synthetic data and sanitized infrastructure.
 
 ## Technology
