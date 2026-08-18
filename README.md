@@ -18,6 +18,12 @@ I build reliable data systems that turn messy operational information into usefu
 
 </div>
 
+## Impact highlights
+
+- Integrated approximately 3–4 ERP systems into an ingestion architecture supporting 4 tenant clients.
+- Designed a canonical model with approximately 12–15 entities and hourly ingestion runs.
+- Reduced new ERP onboarding from several weeks to approximately one day.
+
 ## What I work on
 
 - End-to-end data platforms: ingestion, transformation, quality, and delivery.
